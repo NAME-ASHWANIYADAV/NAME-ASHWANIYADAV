@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=name-ashwaniyadav&label=Profile%20views&color=0e75b6&style=flat" alt="name-ashwaniyadav" /> </p>
 
-- 🔭 I’m currently working on [Skillop](https://github.com/aman-tiwari001/SKILLOP-FULLSTACK)
+- 🔭 I’m currently working on [Skillop]((https://skillop.in/))
 
 - 🌱 I’m currently learning **Backend Development**
 
