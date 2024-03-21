@@ -1,3 +1,4 @@
+![logo](https://github.com/NAME-ASHWANIYADAV/NAME-ASHWANIYADAV/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 <h3 align="center">🚀 Full-stack developer | Node.js enthusiast | MongoDB aficionado | Passionate about creating scalable web applications | Let's build something amazing together! 💻✨</h3>
 
