@@ -23,7 +23,6 @@ location    : New Delhi, India 🇮🇳
 status      : Seeking SWE Internship 2026
 ```
 
-- 🏗️ Currently building at **[Skillop](https://skillop.in/)**
 - 🌱 Learning **Cloud (AWS/Azure), System Design & DSA**
 - 🔓 Actively contributing to **Open Source**
 - 🤖 Built a deepfake detection model with **95% accuracy**
